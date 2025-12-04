@@ -61,7 +61,7 @@ class Car_InventoryAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Uploading WhatsApp Image 2025-12-04 at 10.02.33 PM.jpeg…]()
+![WhatsApp Image 2025-12-04 at 10 02 33 PM](https://github.com/user-attachments/assets/3af2614d-5c55-49f8-8600-42df198d59f2)
 
 
 ## RESULT
